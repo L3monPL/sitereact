@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Silownia_react_Strongman/static/css/main.b7a9a0ea.css",
-    "main.js": "/Silownia_react_Strongman/static/js/main.09e8ba14.js",
-    "static/media/gym1.png": "/Silownia_react_Strongman/static/media/gym1.7c5abbb2830dbfc15dbe.png",
-    "static/media/4.png": "/Silownia_react_Strongman/static/media/4.f663b13537f736ead01e.png",
-    "index.html": "/Silownia_react_Strongman/index.html",
-    "main.b7a9a0ea.css.map": "/Silownia_react_Strongman/static/css/main.b7a9a0ea.css.map",
-    "main.09e8ba14.js.map": "/Silownia_react_Strongman/static/js/main.09e8ba14.js.map"
+    "main.css": "/sitereact/static/css/main.b7a9a0ea.css",
+    "main.js": "/sitereact/static/js/main.c82b420e.js",
+    "static/media/gym1.png": "/sitereact/static/media/gym1.7c5abbb2830dbfc15dbe.png",
+    "static/media/4.png": "/sitereact/static/media/4.f663b13537f736ead01e.png",
+    "index.html": "/sitereact/index.html",
+    "main.b7a9a0ea.css.map": "/sitereact/static/css/main.b7a9a0ea.css.map",
+    "main.c82b420e.js.map": "/sitereact/static/js/main.c82b420e.js.map"
   },
   "entrypoints": [
     "static/css/main.b7a9a0ea.css",
-    "static/js/main.09e8ba14.js"
+    "static/js/main.c82b420e.js"
   ]
 }
