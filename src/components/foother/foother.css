@@ -30,3 +30,12 @@
 .foother_auth{
     color: #0067f4;
 }
+@media only screen and (max-width: 600px){
+.foother_container img{
+    margin-top: 0;
+}
+.foother_container{
+    height: auto;
+    padding-bottom: 4rem;
+}
+}

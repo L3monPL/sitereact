@@ -42,3 +42,25 @@ iframe{
 .map_icon_phone{
     color: #0067f4;
 }
+@media only screen and (max-width: 600px){
+.gmap_canvas{
+    height: 300px;
+}
+.map_container{
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.map_container_info{
+    display: flex;
+    flex-direction: column;
+    margin-left: 8%;
+    margin-right: 8%;
+    padding-bottom: 4rem;
+}
+.map_info_item{
+    margin-bottom: 1.2rem;
+}
+.map_info_item p{
+    font-size: 1rem;
+}
+}
