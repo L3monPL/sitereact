@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b7a9a0ea.css",
-    "main.js": "/static/js/main.986635c9.js",
-    "static/media/gym1.png": "/static/media/gym1.7c5abbb2830dbfc15dbe.png",
-    "static/media/4.png": "/static/media/4.f663b13537f736ead01e.png",
-    "index.html": "/index.html",
-    "main.b7a9a0ea.css.map": "/static/css/main.b7a9a0ea.css.map",
-    "main.986635c9.js.map": "/static/js/main.986635c9.js.map"
+    "main.css": "/silownia_react/static/css/main.b7a9a0ea.css",
+    "main.js": "/silownia_react/static/js/main.6b2d969b.js",
+    "static/media/gym1.png": "/silownia_react/static/media/gym1.7c5abbb2830dbfc15dbe.png",
+    "static/media/4.png": "/silownia_react/static/media/4.f663b13537f736ead01e.png",
+    "index.html": "/silownia_react/index.html",
+    "main.b7a9a0ea.css.map": "/silownia_react/static/css/main.b7a9a0ea.css.map",
+    "main.6b2d969b.js.map": "/silownia_react/static/js/main.6b2d969b.js.map"
   },
   "entrypoints": [
     "static/css/main.b7a9a0ea.css",
-    "static/js/main.986635c9.js"
+    "static/js/main.6b2d969b.js"
   ]
 }
