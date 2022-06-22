@@ -1,0 +1,44 @@
+.map_container{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 4rem;
+}
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    height:600px;
+}
+iframe{
+    width: 100%;
+    height: 100%;
+    border-radius: 1rem;
+}
+.map_container_info{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 2.2rem;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 4rem;
+    padding-bottom: 10rem;
+}
+.map_info_item{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.map_info_item p{
+    font-size: 1.15rem;
+}
+.map_info_icon{
+    font-size: 2.4rem;
+    margin-right: 1rem;
+}
+.map_icon_map{
+    color: #fc3832;
+}
+.map_icon_phone{
+    color: #0067f4;
+}

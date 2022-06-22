@@ -1,0 +1,67 @@
+.plans_section{
+    background-color: #F4F6F7;
+}
+.plans_container_items{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 2.2rem;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 4rem;
+    padding-bottom: 10rem;
+}
+.plans_item{
+    padding: 2rem;
+    background: linear-gradient(#3b6bee 0%, #0067f4 100%);
+    border-radius: 1rem;
+    color: #fff;
+}
+.plans_icon{
+    text-align: center;
+    font-size: 6rem;
+    color: #fff;
+}
+.plans_item h2{
+    text-align: center;
+    font-size: 2rem;
+}
+.plans_item h3{
+    text-align: center;
+    font-size: 1.4rem;
+    margin-bottom: 2rem;
+}
+.plans_item p{
+    line-height: 24px;
+}
+.plans_btn{
+    border: 2px solid #fff;
+    background: #fff;
+    border-radius: 1.5rem;
+    padding: 0.5rem 3rem;
+    color: #0067f4;
+    font-weight: 900;
+    font-size: 1.1rem;
+    display: flex;
+    margin-top: 2.6rem;
+    justify-content: center;
+    width: 40%;
+    transition: 0.6s;
+}
+.plans_btn:hover{
+    background: transparent;
+    color: #fff;
+}
+.plans_btn_container{
+    display: flex;
+    justify-content: center;
+}
+.plans_info_text{
+    display: flex;
+    flex-direction: row;
+    margin-top: 16px;
+}
+.plans_before_icon{
+    margin-top: 2px;
+    margin-right: 0.8rem;
+}

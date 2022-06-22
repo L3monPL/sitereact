@@ -1,0 +1,32 @@
+.foother_container{
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    background: #121212;
+    align-items: center;
+    color: #fff;
+}
+.foother_container img{
+    height: 20rem;
+    margin-top: 4rem;
+}
+.foother_icons_list{
+    display: flex;
+    flex-direction: row;
+    gap: 1.2rem;
+    margin-bottom: 1rem;
+}
+.foother_icons_list a{
+    color: #fff;
+    font-size: 2rem;
+}
+.foother_container h2{
+    font-size: 1rem;
+}
+.foother_container p{
+    font-size: 1rem;
+    margin-top: 1rem;
+}
+.foother_auth{
+    color: #0067f4;
+}
